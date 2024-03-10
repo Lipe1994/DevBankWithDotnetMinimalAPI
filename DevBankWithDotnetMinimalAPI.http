@@ -1,0 +1,6 @@
+@DevBankWithDotnetMinimalAPI_HostAddress = http://localhost:5013
+
+GET {{DevBankWithDotnetMinimalAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
